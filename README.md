@@ -1,0 +1,2 @@
+### conways game of life in C
+simulate the [conways game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in C, right in the terminal. I have used the windows.h header file to use the clear terminal after each generation, change with the appropriate terminal command in case you run the code in a different operating system
